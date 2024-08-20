@@ -1,22 +1,16 @@
-# Hi, I'm UDAY KIRAN! 👋
+<h1 align="center">Hey There✌️ , I'm Uday Kiran :-)</h1>
 
 
 
 ![uday-54's Stats](https://github-readme-stats.vercel.app/api?username=uday-54&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 About Me
-
-- 🔭 I'm currently pursuing my Master's in Computer Science at IIT Kharagpur.
-- 📝 I write in-depth, long-form articles on my website [theenthusiast.dev](https://theenthusiast.dev), accumulating over 20k views within just 2 months.
-- 🌐 Proud member of the [Hackernoon Blogging Fellowship](https://hackernoon.com/), contributing to the tech community.
-- ✍️ Content Writer at [freeCodeCamp](https://www.freecodecamp.org/), gearing up to share valuable insights with the global coding community.
-
-## My Articles
-- [JavaScript Engine and Runtime Explained](https://www.freecodecamp.org/news/javascript-engine-and-runtime-explained/)
+-💼👨‍💻Associate Software Engineer @ CGI
+-💼👨‍💻Application Development Intern @ Johnson Controls
 
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,c,cpp,cs,dotnet,mysql,py)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
@@ -29,13 +23,13 @@
 
  ## 🏆 Achievements
 
-- 🌟 Completed Hacktoberfest 2023 - Contributed to open source projects and celebrated the spirit of collaboration.
+- 🌟 Finalst at Future Leader Innovation Challenge, during the Internship @ Johnson Contrls
 
 
 ## 📬 Get in Touch
 
-- Connect with me on [Twitter](https://twitter.com/introvertedbot)
-- Read more of my articles on [theenthusiast.dev](https://theenthusiast.dev)
+- Connect with me on [Twitter](https://x.com/always_uday05)
+
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 
