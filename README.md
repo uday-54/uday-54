@@ -5,8 +5,8 @@
 ![uday-54's Stats](https://github-readme-stats.vercel.app/api?username=uday-54&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 About Me
--💼👨‍💻Associate Software Engineer @ CGI
--💼👨‍💻Application Development Intern @ Johnson Controls
+<p>-💼👨‍💻Associate Software Engineer @ CGI</p>
+<p>-💼👨‍💻Application Development Intern @ Johnson Controls</p>
 
 
 ## Tech Stack
